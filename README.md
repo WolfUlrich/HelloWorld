@@ -7,4 +7,4 @@ und noch eine 3.Änderung, um die Übersicht zu erhöhen.
 jetzt wird ein neues feature benötigt: :-)
 und es sollte auch kommentiert werden!!
 
-**Liste der Beitragenden**:
+<**Liste der Beitragenden**:> wieder gelöscht, da keine geplant
